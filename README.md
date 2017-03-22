@@ -12,3 +12,7 @@ pasfdasfsdksdf
 ## Deployment
 
 ## How To Contribute
+
+#### Copyright
+
+Copy right notes
