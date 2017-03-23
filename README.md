@@ -13,6 +13,8 @@ pasfdasfsdksdf
 
 ## How To Contribute
 
+Please fork this repository and then pull requeqst issues to review
+
 #### Copyright
 
 Copy right notes
