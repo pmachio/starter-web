@@ -18,4 +18,4 @@ Please fork this repository and then pull requeqst issues to review
 
 #### Copyright
 
-Copy right notes
+2014. Git
