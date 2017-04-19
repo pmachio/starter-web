@@ -3,10 +3,10 @@
  O my good. Adding a line for rebasing exampleº
  More changes done after rebasing
 ## Introduction
-Bl bla bla
+Bl bla bla. Added more information to merge with the stash
 
 ## Purpose
-more bla bla
+more 
 
 ## Purpose
 pasfdasfsdksdf
